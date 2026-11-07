@@ -51,6 +51,7 @@ Workshop memperkenalkan pembuatan aplikasi sederhana **Student Task Planner** de
 4. Melakukan commit dan push ke GitHub.
 5. Memperbarui proyek, lalu commit dan push kembali.
 
+
 4. Pendapat Pribadi tentang Day 1 Project Workshop
 Menurut saya, Day 1 Project Workshop memberikan pengetahuan baru yang bermanfaat, terutama mengenai cara memanfaatkan AI dan mengelola proyek menggunakan GitHub. Saya memahami bahwa penggunaan AI tidak cukup hanya dengan memberikan perintah singkat. Kita perlu menyusun prompt yang jelas, memberikan konteks, dan menentukan hasil yang diinginkan agar jawaban AI lebih sesuai dengan kebutuhan.
 
