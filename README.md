@@ -45,11 +45,11 @@ Perintah Dasar Git
 
 3. Praktik Workshop
 Workshop memperkenalkan pembuatan aplikasi sederhana **Student Task Planner** dengan tahapan:
-1. Menggunakan platform AI untuk membantu membuat aplikasi.
-2. Menulis prompt sesuai kebutuhan.
-3. Menjalankan `git init` pada folder proyek.
-4. Melakukan commit dan push ke GitHub.
-5. Memperbarui proyek, lalu commit dan push kembali.
+- Menggunakan platform AI untuk membantu membuat aplikasi.
+- Menulis prompt sesuai kebutuhan.
+- Menjalankan `git init` pada folder proyek.
+- lakukan commit dan push ke GitHub.
+- Memperbarui proyek, lalu commit dan push kembali.
 
 
 4. Pendapat Pribadi tentang Day 1 Project Workshop
